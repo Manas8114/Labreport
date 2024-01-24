@@ -8,3 +8,4 @@ So, requirments are:
 pip install tk
 pip install mysql.connector
 pip install matplotlib
+Create a mysql data base name hospital and change password and user name as per needs.
